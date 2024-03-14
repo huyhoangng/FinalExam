@@ -1,0 +1,7 @@
+D:\2023-2024\Sem_2\C#\GeometryExample\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+D:\2023-2024\Sem_2\C#\GeometryExample\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+D:\2023-2024\Sem_2\C#\GeometryExample\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+D:\2023-2024\Sem_2\C#\GeometryExample\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.AssemblyReference.cache
+D:\2023-2024\Sem_2\C#\GeometryExample\AnimalHierarchy\obj\Debug\AnimalHierarchy.csproj.CoreCompileInputs.cache
+D:\2023-2024\Sem_2\C#\GeometryExample\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+D:\2023-2024\Sem_2\C#\GeometryExample\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb

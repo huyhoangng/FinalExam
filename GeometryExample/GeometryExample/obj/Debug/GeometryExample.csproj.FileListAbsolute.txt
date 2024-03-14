@@ -1,0 +1,7 @@
+D:\2023-2024\Sem_2\C#\GeometryExample\GeometryExample\bin\Debug\GeometryExample.exe.config
+D:\2023-2024\Sem_2\C#\GeometryExample\GeometryExample\bin\Debug\GeometryExample.exe
+D:\2023-2024\Sem_2\C#\GeometryExample\GeometryExample\bin\Debug\GeometryExample.pdb
+D:\2023-2024\Sem_2\C#\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+D:\2023-2024\Sem_2\C#\GeometryExample\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+D:\2023-2024\Sem_2\C#\GeometryExample\GeometryExample\obj\Debug\GeometryExample.exe
+D:\2023-2024\Sem_2\C#\GeometryExample\GeometryExample\obj\Debug\GeometryExample.pdb
