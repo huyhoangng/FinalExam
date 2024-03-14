@@ -31,8 +31,8 @@ namespace AnimalHierarchy
 
         public virtual void Show()
         {
-            Console.WriteLine($"Name: {name}");
-            Console.WriteLine($"Weight: {weight} kg");
+            Console.WriteLine($"Name: {name},Weight: {weight} kg ");
+            
         }
     }
 }

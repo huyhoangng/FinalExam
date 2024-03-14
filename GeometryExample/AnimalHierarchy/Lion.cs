@@ -14,7 +14,7 @@ namespace AnimalHierarchy
 
         public override void Show()
         {
-            Console.WriteLine("Lion Details:");
+            
             base.Show();
         }
     }

@@ -10,7 +10,7 @@ namespace GeometryExample
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the dismenstion of the cylinder \n ");
+            Console.Write("Enter the dimenstions of the cylinder \n ");
             Console.Write("Enter the radius of the cylinder: ");
             double radius = Convert.ToDouble(Console.ReadLine());
 
